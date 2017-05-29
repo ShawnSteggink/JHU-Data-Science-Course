@@ -14,7 +14,7 @@ From the initial data, the only varibales retained were those relating to either
 For many variables, 3 values are provided, each a component of the vector which they represent when taken together. These have been
 provided in their own columns.
 
-This data set is unique at the subject-activity level. An average function has been used to aggregate the data to this level, 
+The output data set is unique at the subject-activity level. An average function has been used to aggregate the data to this level, 
 taking averages across mean and standard deviation measurements for all subject-activity pairs. In other words, when a subject 
 has multiple observations for a particular activity, the average of each variable relevant to those observations will be taken 
 and provided in the output table.
