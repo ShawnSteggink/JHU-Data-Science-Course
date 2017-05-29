@@ -20,6 +20,6 @@ The following files are included:
 
 - 'README_GACD_Project.txt'
 
-- 'features_info.txt': Describes each of the variables retained in this analysis. 
+- 'variables_info.txt': Describes each of the variables retained in this analysis. 
 
 - 'run_analysis.R': R code which processes, aggregates, refines, and summarizes the raw data.
