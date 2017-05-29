@@ -15,6 +15,12 @@ provided in their own columns.
 The code I wrote to summarize the data first processes each provided subset before combining appending them together and
 summarizing retained variables at the subject-activity level.
 
+I've retained the names of the variables in the provided data because they are already as decriptive in the fullest sense possible 
+in that each describes what the variable name is and includes the measurement taken in the fewest characters possible.
+
+The first 3 columns contain the subject ID number, activity, and activity number (respectively) which, when taken with the meaning of 
+each variable via the variables_info file, allow you to make snese of the data.
+
 The following files are included:
 =========================================
 
